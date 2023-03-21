@@ -11,7 +11,8 @@
 
 - 💬 Ask me about **JAVA, DSA, ML**
 
-- 📫 How to reach me **palabhi13072001@gmail.com <p>img src="https://www.instagram.com/abhishekpal698/"</p>**
+- 📫 How to reach me **palabhi13072001@gmail.com <p>img src="https://www.instagram.com/abhishekpal698/"</p>
+- <p>img src="https://www.linkedin.com/in/abhishek-pal-5bbb8a224/"</p>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
