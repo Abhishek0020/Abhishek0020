@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Pal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate web  developer and machine learning from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek0020&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek0020" /> </p>
 
@@ -21,6 +21,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek0020&show_icons=true&locale=en&layout=compact" alt="abhishek0020" /></p>
+<p>img src="https://www.instagram.com/abhishekpal698/"</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek0020&show_icons=true&locale=en" alt="abhishek0020" /></p>
 
