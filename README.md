@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **dsa **
+- 🌱 I’m currently learning **COMPUTER NETWORKING and web dev **
 
-- 💬 Ask me about **JAVA, DSA, ML**
+- 💬 Ask me about **JAVA,CN,OS,SQL**
 
 - 📫 How to reach me **palabhi13072001@gmail.com <p>img src="https://www.instagram.com/abhishekpal698/"</p>
 - <a href="https://www.linkedin.com/in/abhishek-pal-5bbb8a224/">visit linkedIn</a>**
