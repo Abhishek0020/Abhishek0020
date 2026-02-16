@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Pal</h1>
-<h4 align="center">A passionate java,python development and machine learning.</h4>
+<h4 align="center">A passionate java,database,computer network,operating systems.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek0020&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek0020" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **java sql oops **
+- 🌱 I’m currently learning **java,DSA,Sql **
 
 - 💬 Ask me about **JAVA,CN,OS,SQL**
 
